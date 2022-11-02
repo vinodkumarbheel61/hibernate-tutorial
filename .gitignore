@@ -1,0 +1,9 @@
+cat ~/.gitignore
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml
+.idea/
